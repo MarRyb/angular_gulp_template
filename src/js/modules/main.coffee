@@ -1,0 +1,1 @@
+main = angular.module('main', [])

@@ -1,0 +1,29 @@
+{
+  "name": "angular_learn",
+  "version": "1.0.0",
+  "description": "nu eto",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "38260410"
+  ],
+  "author": "Marina",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "express": "^4.16.2",
+    "gulp-coffee": "^3.0.2",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8"
+  }
+}
